@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @bitvestigator
+- 👀 I’m interested in OSINT
+- 🌱 I’m currently learning investigative techniques
+- 💞️ I’m looking to collaborate on OSINT tech
+- 📫 How to reach me: Twitter @bitvestigator
